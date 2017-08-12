@@ -98,7 +98,8 @@ $status = $twitter->post(
             </script>
 
             <br/><br/>
-            <a href="http://dev.colinroitt.uk/spicytake">Try Aagin</a>
+            <a href="http://dev.colinroitt.uk/spicytake">Try Aagin</a> <br/> 
+            <a href="http://colinroitt.uk/">ColinRoitt.uk</a> &nbsp; <a href="http://blog.colinroitt.uk/2017/08/12/today-i-brought-to-life-the-stupidest-web-thing-ive-ever-made-spicytake/#more-186">About This</a>
         </div>
         
     </body>
