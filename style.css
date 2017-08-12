@@ -18,7 +18,7 @@ body{
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
     width: 410px;
-    height: 425px;
+    height: 435px;
     text-align: center;
     background-color: #e6ecf0;
     border-radius: 25px;
@@ -30,4 +30,8 @@ body{
 #tweet iframe {
     border: none !important;
     box-shadow: none !important;
+}
+
+a, a:visited{
+    color:red;
 }
