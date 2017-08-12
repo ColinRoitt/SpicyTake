@@ -3,7 +3,6 @@ include('secret_keys.php');
 return [
 
     // key and secret of your application
-<<<<<<< HEAD
     'consumer_key'      => $consumer_key,
     'consumer_secret'   => $consumer_secret,
 
